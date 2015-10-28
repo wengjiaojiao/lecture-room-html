@@ -31,7 +31,6 @@ header,footer{
     margin-left: 194px;
     border-radius: 50%;
     float: left;
-    background: red;
 }
 
 .message {
@@ -65,14 +64,13 @@ header,footer{
     height: 349px;
     width: 324px;
     display: inline-block;
-    background: red;
+    background: white;
     margin: 20px 20px;
 }
 
 .picture {
     height: 231px;
     width: 324px;
-    background: green;
 }
 
 .name {
@@ -80,7 +78,6 @@ header,footer{
     margin-top: 25px;
     line-height: 30px;
     font-size: 23px;
-    background: yellow;
 }
 
 .description {
@@ -88,7 +85,7 @@ header,footer{
     margin-top: 5px;
     line-height: 21px;
     font-size: 18px;
-    background: yellow;
+    color:grey;
 }
 
 .button {
