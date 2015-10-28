@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    height: 48px;
+    background: grey;
+    line-height: 48px;
+}
+
+.navigation {
+    margin-top: 0px;
+    margin-left: 547px;
+}
+
+li {
+    color: white;
+    display: inline;
+    padding-right: 36px;
+    font-size: 13px;
+}
