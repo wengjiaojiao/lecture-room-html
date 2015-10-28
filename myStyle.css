@@ -20,3 +20,37 @@ li {
     padding-right: 36px;
     font-size: 13px;
 }
+
+.introduction {
+    height: 392px;
+}
+
+.image {
+    height: 280px;
+    width: 280px;
+    margin-left: 194px;
+    border-radius: 50%;
+    float: left;
+    background: red;
+}
+
+.message {
+    height: 50px;
+    width: 110px;
+    margin-left: 565px;
+    margin-top: 120px;
+    font-size: 35px;
+    line-height: 50px;
+}
+
+.button {
+    height: 68px;
+    width: 328px;
+    background: #5bb0d5;
+    color: white;
+    margin-top: 148px;
+    margin-left: 563px;
+    line-height: 68px;
+    border-radius: 5px;
+    font-size: 20px;
+}
