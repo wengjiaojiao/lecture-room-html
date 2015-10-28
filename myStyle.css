@@ -3,10 +3,11 @@ body {
     padding: 0px;
 }
 
-header {
+header,footer{
     height: 48px;
     background: grey;
     line-height: 48px;
+    color: white;
 }
 
 .navigation {
@@ -15,7 +16,6 @@ header {
 }
 
 .navigation li {
-    color: white;
     display: inline;
     padding-right: 36px;
     font-size: 13px;
