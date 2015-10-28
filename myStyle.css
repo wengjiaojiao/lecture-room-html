@@ -14,7 +14,7 @@ header {
     margin-left: 547px;
 }
 
-li {
+.navigation li {
     color: white;
     display: inline;
     padding-right: 36px;
@@ -36,21 +36,78 @@ li {
 
 .message {
     height: 50px;
-    width: 110px;
+    width: 580px;
     margin-left: 565px;
     margin-top: 120px;
-    font-size: 35px;
+    font-size: 20px;
     line-height: 50px;
+}
+
+.major {
+    height: 1307px;
+    background: #f5f5f5;
+}
+
+.title {
+    height: 32px;
+    padding-top: 117px;
+    font-size: 30px;
+}
+
+.orders {
+    margin-left: 136px;
+    margin-top: 105px;
+    width: 1132px;
+    height: 744px;
+}
+
+.order{
+    height: 349px;
+    width: 324px;
+    display: inline-block;
+    background: red;
+    margin: 20px 20px;
+}
+
+.picture {
+    height: 231px;
+    width: 324px;
+    background: green;
+}
+
+.name {
+    height: 30px;
+    margin-top: 25px;
+    line-height: 30px;
+    font-size: 23px;
+    background: yellow;
+}
+
+.description {
+    height: 21px;
+    margin-top: 5px;
+    line-height: 21px;
+    font-size: 18px;
+    background: yellow;
 }
 
 .button {
     height: 68px;
-    width: 328px;
     background: #5bb0d5;
     color: white;
-    margin-top: 148px;
-    margin-left: 563px;
     line-height: 68px;
     border-radius: 5px;
     font-size: 20px;
+}
+
+.button-one {
+    width: 328px;
+    margin-top: 148px;
+    margin-left: 563px;
+}
+
+.button-two {
+    width: 239px;
+    margin-top: 150px;
+    margin-left: 605px;
 }
