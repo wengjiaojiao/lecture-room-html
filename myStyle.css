@@ -3,10 +3,17 @@ body {
     padding: 0px;
 }
 
-header,footer{
+header{
     height: 48px;
     background: grey;
     line-height: 48px;
+    color: white;
+}
+
+footer {
+    height: 52px;
+    background: grey;
+    line-height: 27px;
     color: white;
 }
 
@@ -46,7 +53,7 @@ a:link,a:visited{
     color:white;
     text-decoration:none;
     }
-    
+
 a:hover{
     text-decoration:underline;
 }
